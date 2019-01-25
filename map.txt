@@ -1,0 +1,16 @@
+3
+Barn
+You enter a giant barn. Horse crap is everywhere.
+2
+Horse crap
+It doesn't smell good, but it makes good kindling.
+Rusty pitchfork
+Afflicts your enemy with Tetanus +1.
+-1,1,-1,-1,-1,-1
+Outside
+It's raining outside. Your perm will get ruined if you go out there!
+0
+0,-1,2,-1,-1,-1
+Driveway
+A long, gravel driveway. It heads west.
+-1,-1,-1,2,-1,-1
